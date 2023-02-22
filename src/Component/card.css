@@ -1,0 +1,78 @@
+.image--container
+{
+    width: 395px;
+    height: 269px;
+}
+.image--container img
+{
+    width: 100%;
+    border-radius: 16px;
+}
+.card--badge
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+padding: 0.5em;
+color: #4F4F4F;
+}
+.information
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.type
+{
+    width:48% ;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+
+/* Gray 3 */
+
+color: #828282;
+}
+.rate
+{
+    display: flex;
+    align-items: center;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+color: #4F4F4F;
+
+}
+.rate img
+{
+    width: 15px;
+    height: 15px;
+}
+h3
+{
+
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+margin: 10px auto;
+
+color: #333333;
+
+}
+.card--comp
+{
+    margin: 10px  ;
+}
+
